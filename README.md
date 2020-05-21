@@ -38,11 +38,6 @@ The capstone will build upon the knowledge you have gained in the course in orde
 
 [SolnSquareVerifier in rinkeby](https://rinkeby.etherscan.io/address/0x3a8a1dcA6a9b6E991136cfFF9bF1ABd17f6b2e25)
 
-## Verifier contract address at rinkeby
-
-0x24285A789E89fF8d65146d3f269f79F3B0533292
-
-[Verifier in rinkeby](https://rinkeby.etherscan.io/address/0x24285A789E89fF8d65146d3f269f79F3B0533292)
 
 ## openSea store-front
 
