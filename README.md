@@ -62,8 +62,7 @@ The capstone will build upon the knowledge you have gained in the course in orde
 
 [https://rinkeby.opensea.io/assets/0x3a8a1dca6a9b6e991136cfff9bf1abd17f6b2e25/5](https://rinkeby.opensea.io/assets/0x3a8a1dca6a9b6e991136cfff9bf1abd17f6b2e25/5)
 
-[https://rinkeby.opensea.io/assets/0x3a8a1dca6a9b6e991136cfff9bf1abd17f6b2e25/6]
-(https://rinkeby.opensea.io/assets/0x3a8a1dca6a9b6e991136cfff9bf1abd17f6b2e25/6)
+[https://rinkeby.opensea.io/assets/0x3a8a1dca6a9b6e991136cfff9bf1abd17f6b2e25/6](https://rinkeby.opensea.io/assets/0x3a8a1dca6a9b6e991136cfff9bf1abd17f6b2e25/6)
 
 [https://rinkeby.opensea.io/assets/0x3a8a1dca6a9b6e991136cfff9bf1abd17f6b2e25/7](https://rinkeby.opensea.io/assets/0x3a8a1dca6a9b6e991136cfff9bf1abd17f6b2e25/7)
 
