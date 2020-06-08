@@ -61,7 +61,7 @@ module.exports = {
     // Useful for deploying to a public network.
     // NB: It's important to wrap the provider as a function.
     rinkeby:{
-      provider:()=>new HDWalletProvider("utility local omit alley affair toe ivory scheme depth voyage major shield","https://rinkeby.infura.io/v3/581a87de075a47b996840bc292cb22f8"),
+      provider:()=>new HDWalletProvider("Your Mnemonic","Infura Key"),
       network_id:4,
       gas:4500000,
       gasPrice:10000000000,
